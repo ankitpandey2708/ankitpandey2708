@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=ankitpandey2708)
+![](https://github-readme-stats.vercel.app/api?username=ankitpandey2708&show_icons=true)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
