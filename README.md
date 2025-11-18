@@ -1,4 +1,4 @@
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpandey2708&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpandey2708&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpandey2708&show_icons=true&theme=dark&hide_border=true" alt="" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpandey2708&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br />
 <br />
