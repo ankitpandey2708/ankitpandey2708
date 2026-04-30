@@ -13,7 +13,6 @@
 </div>
 
 <div align="center">
-  <h3>🎯 My Github Contributions</h3>
 
   ![DSA Practice Activity](https://github-readme-activity-graph.vercel.app/graph?username=ankitpandey2708&repo=DSA_CPP_Leetcode_-_GFG&theme=react-dark&area=true&hide_border=true)
 
