@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="Waving hand animation" />, I'm Ankit Pandey</h1>
-  <h3>Technincal PM with 6+ YoE</h3>
+  <h3>Technical PM with 6+ YoE</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ankitpandey2708" alt="Profile view counter" />
