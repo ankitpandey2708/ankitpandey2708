@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="Waving hand animation" />, I'm Ankit Pandey</h1>
-  <h3>Technical PM with 6+ YoE</h3>
+  <h3>PM with 6+ YoE</h3>
 
 
   <a href="https://razorpay.me/@ankitpandey2708" target="_blank">
